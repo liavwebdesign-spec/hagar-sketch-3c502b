@@ -1,0 +1,10 @@
+tools/
+__pycache__/
+*.pyc
+qa-shots/
+# מקורות שמוטמעים בעמוד (איורי מגניפיק ואייקונים), לא נטענים ישירות
+images/art/
+images/icons/
+images/photos/circle-group.webp
+# חריגים מנומקים לבדיקות, לא חלק מהאתר
+qa-allow.json
